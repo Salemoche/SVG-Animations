@@ -1,0 +1,24 @@
+{
+  "name": "svg-animations",
+  "version": "1.0.0",
+  "description": "svg animation tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salemoche/SVG-Animations.git"
+  },
+  "keywords": [
+    "tutorial",
+    "svg",
+    "animation"
+  ],
+  "author": "Gabriel Bach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salemoche/SVG-Animations/issues"
+  },
+  "homepage": "https://github.com/Salemoche/SVG-Animations#readme"
+}
