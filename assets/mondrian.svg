@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="mondrian" viewBox="0 0 474 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="o" transform="translate(-77.000000, -61.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(77.000000, 61.000000)">
+                <path d="M19.5,58.5 C70.1666667,25.8333333 104,17.6666667 121,34 C146.5,58.5 238.5,114.5 265,86.5 C282.666667,67.8333333 322.166667,58.5 383.5,58.5 L474,284 L311.5,379.5 L311.5,260.5 C240.166667,221.166667 197.666667,221.166667 184,260.5 C170.333333,299.833333 109,324.333333 0,334 C75,266.333333 101,215.333333 78,181 C55,146.666667 35.5,105.833333 19.5,58.5 Z" id="Path-2" fill="#FF0000"></path>
+                <path d="M235,0 C162.666667,122.666667 102.333333,177 54,163 C-18.5,142 188.5,273 188.5,313.5 C188.5,340.5 212.833333,352.5 261.5,349.5 C343.5,242.166667 404,191.333333 443,197 C501.5,205.5 253.5,238.5 253.5,183 C253.5,146 247.333333,85 235,0 Z" id="Path-3" fill="#0C00FF"></path>
+                <circle id="Oval-4" fill="#FFFA00" cx="144" cy="325" r="93"></circle>
+                <rect id="Rectangle" fill="#1BB700" x="202" y="0" width="217" height="213"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
